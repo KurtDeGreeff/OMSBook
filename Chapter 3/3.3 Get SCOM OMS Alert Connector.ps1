@@ -1,0 +1,1 @@
+Get-SCOMConnector -Id 6D481226-6A6D-4315-AC9E-022C35A33B9B | Format-List *
